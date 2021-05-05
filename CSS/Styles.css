@@ -1,0 +1,190 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.TopbarMain {
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+
+img {
+    width: 220px;
+    float: left;
+}
+
+.Container {
+    width: 1130px;
+    margin: 0 auto;
+   
+}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    text-transform: uppercase;
+    margin-left: 20px;
+    margin-top: 15px;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+#BackgroundSlider{
+background-image: url(../Image/frontpage.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: 100%;
+
+}
+
+.slidercontent {
+    width: 331px;
+    background: #00000052;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    margin-block: 130px;
+    font-size: 25px;
+    padding: 39px;
+}
+
+button#sliderWorkButton {
+    padding: 10px;
+    border-radius: 2px;
+    border: none;
+    background: #66c430;
+    color: white;
+    font-size: 17px;
+    margin-top: 20px;
+}
+
+.fa.fa-facebook-official {
+    font-family: "Font Awesome 5 Brands";
+    font-weight: 400;
+    background: #057bf5;
+    color: white;
+    padding: 2px;
+}
+.fa.fa-facebook, .fa.fa-twitter {
+    font-family: "Font Awesome 5 Brands";
+    font-weight: 400;
+    background: #00a1ff;
+    color: white;
+    padding: 2px;
+}
+
+.fa.fa-linkedin {
+    font-family: "Font Awesome 5 Brands";
+    font-weight: 400;
+    background: #008ef3;
+    color: white;
+    padding: 3px;
+}
+i.fa.fa-sign-in {
+    color: #66c430;
+}
+
+i.fa.fa-google-plus-official {
+    background: red;
+    color: white;
+    padding: 2px;
+}
+
+.mainService {
+    width: 249px;
+    padding: 10px;
+    background: #f9f9f9;
+    text-align: center;
+    margin-top: 50px;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+i.fas.fa-users {
+    width: 47px;
+    height: 45px;
+    color: white;
+    margin: auto;
+    font-size: 40px;
+    background: #316dc5;
+    border-radius: 100%;
+    padding: 12px;
+    margin-bottom: 10px;
+}
+
+.becomeLender {
+    width: 380px;
+    background: #48aaad9e;
+    padding: 20px;
+    margin-top: 50px;
+    font-size: 18px;
+    float: left;
+    margin-left: 120px;
+    margin-bottom: 35px;
+}
+
+.BlogContainer {
+    width: 490px;
+    background: #f9f9f9;
+    margin-top: 60px;
+    padding: 30px;
+    text-align: left;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#Member {
+    background: #f1f1f1;
+    margin-top: 40px;
+    padding: 40px;
+    text-align: center;
+    font-size: 21px;
+    line-height: 40px;
+}
+
+#trustPilot {
+    width: 250px;
+    text-align: center;
+    line-height: 36px;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+i.fas.fa-star {
+    color: #00f513;;
+}
+
+i.far.fa-star {
+    padding: 12px;
+    margin-top: 15px;
+    background: green;
+    color: white;
+}
+
+div#Mention {
+    background: #56525242;
+    color: white;
+    padding: 100px;
+}
+
+.image {margin-top: 25px;margin-left: 100px;}
+
+
+footer {
+    background: #034777d1;
+    padding: 40px;
+    font-size: 15px;
+    color: white;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+.footercontent {
+    display: inline-block;
+    margin-left: 215px;
+    text-align: center;
+    font-size: 15px;
+}
